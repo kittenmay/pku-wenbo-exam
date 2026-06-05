@@ -1,0 +1,8 @@
+PLAN*.md
+GOALS.md
+ADR.md
+data/
+*.docx
+progress.jsonl
+scripts/
+scripts/
